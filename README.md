@@ -1,5 +1,6 @@
- # 💫 About Me:
-              HI  I'M SRAJAN N GANIGA
+ 
+              HI👋, I'M SRAJAN N GANIGA
+                 A Passionate Developer From India
 I'm a BCA student Studying at MGM College.<br><br>🎓 Skilled in HTML, CSS, JavaScript <br>and React.js<br><br>💻 Built several real world projects:<br>  🍽️ Recipe App<br>  🎬 Movie Guide App<br>  📖 Dictionary App<br>  🌐 Portfolio Website<br><br>🚀 Aspiring Full Stack Developer who <br>loves turning ideas into reality!<br><br>🌱 Always learning & building new things and also eager to learn new technologies!
 
 
